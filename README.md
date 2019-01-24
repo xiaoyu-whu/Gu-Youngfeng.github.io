@@ -2,7 +2,7 @@
 
 This is the personal website of Xiao Yu.
 He is now a second Phd student at [School of Computer Science](http://cs.whu.edu.cn/), Wuhan University.
-My research interests are in the areas of software engineering and data mining. Recently I’m interested in defect prediction.
+His research interests are in the areas of software engineering and data mining. Recently He is interested in defect prediction.
 
 Here are some brief experiences of Xiao Yu.
 
