@@ -9,5 +9,5 @@ Here are some brief experiences of Xiao Yu.
 | Duration | Experience |
 |:--|:--|
 | 2015 ~ |      School of Computer Science (studying for **Doctor** degree), Wuhan University. |
-| 2011 ~ 2015 | School of Computer and Information Engineering(recisived **Bachelor** degree), Hubei University. |
+| 2011 ~ 2015 | School of Computer and Information Engineering(received **Bachelor** degree), Hubei University. |
 | 2008 ~ 2011 | Hanchuan First High School |
